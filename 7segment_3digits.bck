@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7segment_3digit
+D 7 segment display 3 digits
+K 7 SEGMENTS 3 display
+$ENDCMP
+#
+$CMP CC56-12
+D Kingbright 4 x 7-segment common cathode display
+K 7 SEGMENTS 4 display
+F http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12EWA.pdf
+$ENDCMP
+#
+#End Doc Library

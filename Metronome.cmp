@@ -1,0 +1,211 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue 27 Oct 2015 04:26:10 PM CDT
+
+BeginCmp
+TimeStamp = 562D265D
+Path = /562CC547
+Reference = U2;
+ValeurCmp = NCP706A;
+IdModule  = XDFN8_1.6x1.2;
+EndCmp
+
+BeginCmp
+TimeStamp = 562EE3BB
+Path = /562EE04F
+Reference = 7Seg1;
+ValeurCmp = 7segment_3digit;
+IdModule  = footprints:LDT-N2804RI;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25D5
+Path = /562C3FC7
+Reference = IC1;
+ValeurCmp = ATXMEGA8E5-MU;
+IdModule  = Housings_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D9CEC
+Path = /562C9B30
+Reference = S1;
+ValeurCmp = ENCODER_SW;
+IdModule  = footprints:EC09E15244xx;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25AD
+Path = /562CC674
+Reference = C8;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25A1
+Path = /562C677C
+Reference = C7;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2595
+Path = /562C671E
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2589
+Path = /562CA266
+Reference = C5;
+ValeurCmp = 0.01u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D257D
+Path = /562C7AF8
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2571
+Path = /562C7A7B
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2565
+Path = /562CA223
+Reference = C2;
+ValeurCmp = 0.01u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2559
+Path = /562CA9C9
+Reference = C1;
+ValeurCmp = 0.01u;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D261D
+Path = /562C6DDB
+Reference = R12;
+ValeurCmp = 40k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2617
+Path = /562C6DB0
+Reference = R11;
+ValeurCmp = 40k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2611
+Path = /562C6D7A
+Reference = R10;
+ValeurCmp = 40k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D260B
+Path = /562C845B
+Reference = R9;
+ValeurCmp = 20k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D2605
+Path = /562C8142
+Reference = R8;
+ValeurCmp = 20k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25FF
+Path = /562CA174
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25F9
+Path = /562CA08D
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25F3
+Path = /562CA032
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25ED
+Path = /562CA12E
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25E7
+Path = /562CA8E1
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25E1
+Path = /562CA95E
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D25DB
+Path = /562C4255
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 56366F25
+Path = /562FC7F0
+Reference = CON1;
+ValeurCmp = PDI_50mil;
+IdModule  = footprints:header_2x5_th;
+EndCmp
+
+BeginCmp
+TimeStamp = 562D264F
+Path = /562C5D0F
+Reference = U1;
+ValeurCmp = AS1117;
+IdModule  = footprints:QFN-24-1EP_4x4mm_Pitch0.5mm;
+EndCmp
+
+EndListe
