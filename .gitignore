@@ -3,3 +3,5 @@ gerbers
 **/#*
 *bak
 **/*bak
+*.pyc
+**/*.pyc
