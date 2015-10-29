@@ -1,4 +1,4 @@
-update=Thu 29 Oct 2015 10:25:12 AM CDT
+update=Thu 29 Oct 2015 01:59:28 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -38,3 +38,4 @@ LibName6=encoder
 LibName7=onregulator
 LibName8=7segment_3digits
 LibName9=pdi_50mil
+LibName10=usb

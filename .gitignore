@@ -10,3 +10,4 @@ gerbers
 *.cmp
 *.csv
 *-cache.lib
+*.bck
