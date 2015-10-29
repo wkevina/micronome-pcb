@@ -5,3 +5,7 @@ gerbers
 **/*bak
 *.pyc
 **/*.pyc
+*.xml
+*.net
+*.cmp
+*.csv
