@@ -9,3 +9,4 @@ gerbers
 *.net
 *.cmp
 *.csv
+*-cache.lib
