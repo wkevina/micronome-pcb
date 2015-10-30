@@ -934,4 +934,25 @@ Wire Wire Line
 	4000 2900 3800 2900
 NoConn ~ 3800 2700
 Connection ~ 4600 6150
+$Comp
+L Crystal Y1
+U 1 1 5633897E
+P 850 3000
+F 0 "Y1" H 850 3150 50  0000 C CNN
+F 1 "Crystal" H 850 2850 50  0000 C CNN
+F 2 "footprints:crystal_ABS05_Abracon_smd" H 850 3000 60  0001 C CNN
+F 3 "" H 850 3000 60  0000 C CNN
+F 4 "Abracon" H 850 3000 60  0001 C CNN "MFN"
+F 5 "ABS05-32.768KHZ-T" H 850 3000 60  0001 C CNN "MFP"
+	1    850  3000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	850  2850 1150 2850
+Wire Wire Line
+	1150 2850 1150 3000
+Wire Wire Line
+	850  3150 1150 3150
+Wire Wire Line
+	1150 3150 1150 3100
 $EndSCHEMATC
