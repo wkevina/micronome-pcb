@@ -579,8 +579,6 @@ NoConn ~ 3800 2600
 NoConn ~ 3800 2800
 NoConn ~ 3800 3000
 NoConn ~ 3800 3100
-NoConn ~ 1150 3000
-NoConn ~ 1150 3100
 NoConn ~ 1150 3600
 NoConn ~ 1150 3700
 NoConn ~ 1150 3800

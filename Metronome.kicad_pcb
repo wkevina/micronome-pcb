@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2015-10-28 BZR 6285, Git 77f1d8a)-product")
+(kicad_pcb (version 4) (host pcbnew "(2015-10-27 BZR 6284)-product")
 
   (general
     (links 94)
     (no_connects 0)
-    (area 67.224999 67.724999 92.175001 92.375001)
+    (area 67.022599 62.25 106.2 93.073449)
     (thickness 1.6)
     (drawings 7)
     (tracks 324)
@@ -43,7 +43,7 @@
   )
 
   (setup
-    (last_trace_width 0.2)
+    (last_trace_width 0.16)
     (user_trace_width 0.2)
     (user_trace_width 0.3)
     (trace_clearance 0.1524)
@@ -87,7 +87,7 @@
       (hpglpenoverlay 2)
       (psnegative false)
       (psa4output false)
-      (plotreference true)
+      (plotreference false)
       (plotvalue false)
       (plotinvisibletext false)
       (padsonsilk false)
